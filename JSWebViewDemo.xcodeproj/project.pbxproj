@@ -16,6 +16,8 @@
 		36CE9B571BBA47A6003028A3 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 36CE9B561BBA47A6003028A3 /* index.html */; settings = {ASSET_TAGS = (); }; };
 		36CE9B601BBA5D92003028A3 /* PMFindHistory.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CE9B5D1BBA5D92003028A3 /* PMFindHistory.m */; settings = {ASSET_TAGS = (); }; };
 		36CE9B611BBA5D92003028A3 /* PMPay.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CE9B5F1BBA5D92003028A3 /* PMPay.m */; settings = {ASSET_TAGS = (); }; };
+		36CE9B651BBA6AC3003028A3 /* PMWeb.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CE9B641BBA6AC3003028A3 /* PMWeb.m */; settings = {ASSET_TAGS = (); }; };
+		36CE9B681BBA7008003028A3 /* PMWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 36CE9B671BBA7008003028A3 /* PMWebViewController.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,10 @@
 		36CE9B5D1BBA5D92003028A3 /* PMFindHistory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMFindHistory.m; sourceTree = "<group>"; };
 		36CE9B5E1BBA5D92003028A3 /* PMPay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMPay.h; sourceTree = "<group>"; };
 		36CE9B5F1BBA5D92003028A3 /* PMPay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMPay.m; sourceTree = "<group>"; };
+		36CE9B631BBA6AC3003028A3 /* PMWeb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMWeb.h; sourceTree = "<group>"; };
+		36CE9B641BBA6AC3003028A3 /* PMWeb.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMWeb.m; sourceTree = "<group>"; };
+		36CE9B661BBA7008003028A3 /* PMWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMWebViewController.h; sourceTree = "<group>"; };
+		36CE9B671BBA7008003028A3 /* PMWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMWebViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +77,8 @@
 				36CE9B401BBA4377003028A3 /* AppDelegate.m */,
 				36CE9B421BBA4377003028A3 /* ViewController.h */,
 				36CE9B431BBA4377003028A3 /* ViewController.m */,
+				36CE9B661BBA7008003028A3 /* PMWebViewController.h */,
+				36CE9B671BBA7008003028A3 /* PMWebViewController.m */,
 				36CE9B561BBA47A6003028A3 /* index.html */,
 				36CE9B451BBA4377003028A3 /* Main.storyboard */,
 				36CE9B481BBA4377003028A3 /* Assets.xcassets */,
@@ -96,6 +104,8 @@
 				36CE9B5D1BBA5D92003028A3 /* PMFindHistory.m */,
 				36CE9B5E1BBA5D92003028A3 /* PMPay.h */,
 				36CE9B5F1BBA5D92003028A3 /* PMPay.m */,
+				36CE9B631BBA6AC3003028A3 /* PMWeb.h */,
+				36CE9B641BBA6AC3003028A3 /* PMWeb.m */,
 			);
 			path = JSClass;
 			sourceTree = "<group>";
@@ -174,7 +184,9 @@
 				36CE9B611BBA5D92003028A3 /* PMPay.m in Sources */,
 				36CE9B441BBA4377003028A3 /* ViewController.m in Sources */,
 				36CE9B601BBA5D92003028A3 /* PMFindHistory.m in Sources */,
+				36CE9B651BBA6AC3003028A3 /* PMWeb.m in Sources */,
 				36CE9B411BBA4377003028A3 /* AppDelegate.m in Sources */,
+				36CE9B681BBA7008003028A3 /* PMWebViewController.m in Sources */,
 				36CE9B3E1BBA4377003028A3 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
