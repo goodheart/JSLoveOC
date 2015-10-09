@@ -29,4 +29,8 @@
     });
 }
 
+- (NSString *)getUserNickName {
+    return @"二哈";
+}
+
 @end

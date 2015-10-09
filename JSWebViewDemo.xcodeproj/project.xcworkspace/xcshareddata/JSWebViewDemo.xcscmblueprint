@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "32C4106675880A4AF12A9769139B2A842B031275",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A4D7DB7936D18F8797892B0805F0623344CBAEBE" : 0,
+    "32C4106675880A4AF12A9769139B2A842B031275" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BBCA5D4A-2D72-4E17-BEA3-9B8B95AE6136",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A4D7DB7936D18F8797892B0805F0623344CBAEBE" : "",
+    "32C4106675880A4AF12A9769139B2A842B031275" : "JSLoveOC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JSWebViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JSWebViewDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/goodheart\/JSLoveOC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "32C4106675880A4AF12A9769139B2A842B031275"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:goodheart\/firstDemo123.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4D7DB7936D18F8797892B0805F0623344CBAEBE"
+    }
+  ]
+}

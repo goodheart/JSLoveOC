@@ -19,6 +19,7 @@
 @protocol PMWebProtocol <JSExport>
 
 - (void)gotoDetail:(NSString *)urlStr;
+- (NSString *)getUserNickName;
 
 @end
 

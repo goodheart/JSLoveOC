@@ -11,7 +11,7 @@
 #import "PMPay.h"
 #import "PMWeb.h"
 #import "PMWebViewController.h"
-#define kPMRemoteOK 1 //如果本地测试，则置为0，远程测试，置为1
+#define kPMRemoteOK 0 //如果本地测试，则置为0，远程测试，置为1
 
 @interface ViewController ()<UIWebViewDelegate,PMWebDelegate>
 @property (weak, nonatomic) IBOutlet UIWebView *webView;
